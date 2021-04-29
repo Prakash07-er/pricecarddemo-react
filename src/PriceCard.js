@@ -20,7 +20,7 @@ export default function PriceCard(props) {
                         <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>{props.data.domain}</li>
                         <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>{props.data.report}</li>
                         </ul>
-                        <a href="#" class="btn btn-block btn-primary text-uppercase">Button</a>
+                        <button  class="btn btn-block btn-primary text-uppercase">Button</button>
                     </div>
                     </div>
       </div>
